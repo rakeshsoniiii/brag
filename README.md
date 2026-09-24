@@ -7,7 +7,7 @@
 `/brag` is a Claude Code skill that turns the project you created into a short, shareable launch video — music, motion, and share copy included. One command, powered by [Hyperframes](https://hyperframes.heygen.com/).
 
 The looping video on the [launch site](https://latent-spaces.github.io/brag/) was made by `/brag` on this very repo. 
-
+.
 ## Install
 
 ```bash
